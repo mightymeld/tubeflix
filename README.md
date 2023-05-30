@@ -16,4 +16,4 @@ This application (a Netflix clone) is based on [this project](https://github.com
 
 2. Launch the app using `npx mightymeld --instance-id XXXX-XXXX-XXXX-XXXX`, where XXXX-XXXX-XXXX-XXXX is your instance ID. If you don't have an instance ID, [sign up for MightyMeld](https://www.mightymeld.com) or join the waitlist and you will receive one.
 
-3. Once the app has loaded, visit [studio.mightymeld.app/](https://studio.mightymeld.app/) to begin editing your app.
+3. Once the app has loaded, visit [studio.mightymeld.app](https://studio.mightymeld.app/) to begin editing your app.
