@@ -1,9 +1,19 @@
-## Building Netflix from Scratch Using React (Custom Hooks, Context, Portals), Firebase, Compound & Styled Components (10 Hour Tutorial Here: https://www.youtube.com/watch?v=x_EEwGe-a9o)
+## About
 
-This application (a Netflix clone) was built using React (Custom Hooks, Context), Firebase & Styled Components. I have built the following pages within this application: sign in, sign up, browse & lastly the homepage. There are four different pages, some using protected routes with auth listeners. Firebase firestore handles all the data and that data is retrieved using a custom hook; authentication is used on all pages, which is handled by Firebase as well.
+This application (a Netflix clone) is based on [this project](https://github.com/karlhadwen/netflix). The Netflix branding has been removed, and the project has been set up to work with MightyMeld.
 
-I used compound components (just a design pattern) to build my components, and there's over 10 examples as to how these are used. The styling is all handled via styled components. Using compound components made my actual dumb components really easy to test.
+## Running the app
 
-Subscribe to my YouTube channel here: http://bit.ly/CognitiveSurge where I build projects like this! And don't forget, you can contribute to this project (highly encouraged!).
+1. Type `yarn` to install dependencies.
 
-![Preview](netflix-preview.png?raw=true)
+2. Run `yarn start`, the app should then appear in a browser tab on [localhost:3000](localhost:3000)
+
+
+
+## Editing the app with MightyMeld
+
+1. Run `yarn` to install depenendencies
+
+2. Launch the app using `npx mightymeld --instance-id XXXX-XXXX-XXXX-XXXX`, where XXXX-XXXX-XXXX-XXXX is your instance ID. If you don't have an instance ID, [sign up for MightyMeld](mightymeld.com) or join the waitlist and you will receive one.
+
+3. Once the app has loaded, visit [https://studio.mightymeld.app/](https://studio.mightymeld.app/) to begin editing your app.
