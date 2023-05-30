@@ -1,0 +1,14 @@
+{
+  "project_name": "netflix",
+  "include": ["src", ".prettierrc.json"],
+  "exclude": ["__tests__"],
+  "variables": ["src/tokens.css"],
+  "web_server_port": 3000,
+  "run": "DISABLE_ESLINT_PLUGIN=true yarn start",
+  "bypass_proxy": true,
+  "main_branch": "main",
+  "meta_dir": "src/.mightymeld",
+  "preview_dir": "src/previews",
+  "run_prettier": true,
+  "prefab_dir": "src/prefab"
+}
