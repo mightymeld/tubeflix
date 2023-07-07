@@ -1589,10 +1589,10 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@mightymeld/runtime@^0.1.18":
-  version "0.1.18"
-  resolved "https://registry.yarnpkg.com/@mightymeld/runtime/-/runtime-0.1.18.tgz#a2f345d500dfb3e9dead3b4f02748c75a8e11051"
-  integrity sha512-HMq3rrih9GjDxuSLD2kS58O2mIzHwMFW3iJ0D0HHEtGx9aCqolhQxf83L/atN6u1eS5r9MniXsMNoCO0I0FHUw==
+"@mightymeld/runtime@^0.1.19":
+  version "0.1.19"
+  resolved "https://registry.yarnpkg.com/@mightymeld/runtime/-/runtime-0.1.19.tgz#e6d053bf76732e6a547a9c143ca4df44831bb4e7"
+  integrity sha512-5QoMyvju729l2TxoYIhDrVvw7krzD5Ui8A/1pCyD3X4T20gRianvhZ/XOMG2L1Mbq7z1D5ibIIfp8BISvS1LEA==
   dependencies:
     chokidar "^3.5.3"
 
