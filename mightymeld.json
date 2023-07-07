@@ -4,7 +4,7 @@
   "exclude": ["__tests__"],
   "variables": ["src/tokens.css"],
   "web_server_port": 3000,
-  "run": "DISABLE_ESLINT_PLUGIN=true yarn start",
+  "run": "yarn start",
   "bypass_proxy": true,
   "main_branch": "main",
   "meta_dir": "src/.mightymeld",
